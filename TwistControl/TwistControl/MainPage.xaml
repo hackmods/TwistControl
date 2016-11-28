@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TwistControl"
+             x:Class="TwistControl.MainPage">
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="0, 20, 0, 0"
+                Android="0, 0, 0, 0"
+                WinPhone="0, 0, 0, 0"/>
+  </ContentPage.Padding>
+  <ContentPage.Resources>
+    <ResourceDictionary>
+
+      <OnPlatform x:Key="SizeTiny" x:TypeArguments="x:String" Android="15" WinPhone="15" iOS="15" />
+      <OnPlatform x:Key="SizeSmall" x:TypeArguments="x:String" Android="18" WinPhone="18" iOS="18" />
+      <OnPlatform x:Key="SizeMed" x:TypeArguments="x:String" Android="21" WinPhone="21" iOS="21" />
+      <OnPlatform x:Key="SizeLarge" x:TypeArguments="x:String" Android="24" WinPhone="24" iOS="24" />
+      <OnPlatform x:Key="SizeXL" x:TypeArguments="x:String" Android="27" WinPhone="27" iOS="27" />
+      
+      <OnPlatform x:Key="ColourOrange" x:TypeArguments="Color" Android="#FF5722" WinPhone="#FF5722" iOS="#FF5722" />
+      <OnPlatform x:Key="ColourPurple" x:TypeArguments="Color" Android="#9B26AF" WinPhone="#9B26AF" iOS="#9B26AF" />
+      <OnPlatform x:Key="ColourTeal" x:TypeArguments="Color" Android="#008080" WinPhone="#008080" iOS="#008080" />
+      <OnPlatform x:Key="ColourGreen" x:TypeArguments="Color" Android="#68EFAD" WinPhone="#68EFAD" iOS="#68EFAD" />
+      <OnPlatform x:Key="ColourBlue" x:TypeArguments="Color" Android="#3392b5" WinPhone="#3392b5" iOS="#3392b5" />
+      
+      <Style x:Key="iconImage" TargetType="Image">
+        <Setter Property="Source" Value="rightfoot.png"/>
+        <Setter Property="Aspect" Value="AspectFill"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="VerticalOptions" Value="Center"/>
+      </Style>
+
+      <Style x:Key="GameButton" TargetType="Button">
+        <Setter Property="FontSize" Value="{StaticResource SizeLarge}"/>
+        <Setter Property="BackgroundColor" Value="{StaticResource ColourBlue}"/>
+        <Setter Property="BorderColor" Value="#000"/>
+        <Setter Property="BorderWidth" Value="2"/>
+        <Setter Property="TextColor" Value="#FFF"/>
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+      </Style>
+
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <ContentPage.Content>
+    <Grid>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="*" />
+        <RowDefinition Height="Auto" />
+      </Grid.RowDefinitions>
+
+      <StackLayout  Grid.Row="0" x:Name="StkMain" Orientation="Vertical" HorizontalOptions="Fill" VerticalOptions="FillAndExpand" Padding="20,20,20,20" >
+        <Label Text="Spin to start!" FontSize="27"
+               x:Name="lblGame"
+                 VerticalOptions="Center"
+       HorizontalOptions="Center" />
+        <Image  x:Name="imgMove" />
+      </StackLayout>
+      <StackLayout  Grid.Row="1" x:Name="StkControl" Orientation="Vertical" HorizontalOptions="Fill" VerticalOptions="Fill"  Padding="20,20,20,20" >
+        <Button Text="Spin The Wheel" Clicked="SpinClicked"  Style="{StaticResource GameButton}" />
+      </StackLayout>
+    </Grid>
+  </ContentPage.Content>
+</ContentPage>

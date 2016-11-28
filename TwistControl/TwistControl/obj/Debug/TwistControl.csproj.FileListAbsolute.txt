@@ -1,0 +1,11 @@
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\TwistControl.dll
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\TwistControl.pdb
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\Xamarin.Forms.Core.dll
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\Xamarin.Forms.Platform.dll
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\Xamarin.Forms.Core.xml
+D:\TwistControl\TwistControl\TwistControl\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\TwistControl\TwistControl\TwistControl\obj\Debug\TwistControl.MainPage.xaml.g.cs
+D:\TwistControl\TwistControl\TwistControl\obj\Debug\TwistControl.App.xaml.g.cs
+D:\TwistControl\TwistControl\TwistControl\obj\Debug\TwistControl.dll
+D:\TwistControl\TwistControl\TwistControl\obj\Debug\TwistControl.pdb

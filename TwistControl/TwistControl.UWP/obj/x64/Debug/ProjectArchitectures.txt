@@ -1,0 +1,2 @@
+D:\TwistControl\TwistControl\TwistControl.UWP\TwistControl.UWP.csproj;x64
+D:\TwistControl\TwistControl\TwistControl\TwistControl.csproj;neutral

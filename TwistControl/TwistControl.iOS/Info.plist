@@ -21,7 +21,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>8.0</string>
+	<string>7.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>TwistControl</string>
 	<key>CFBundleIdentifier</key>
@@ -33,7 +33,6 @@
 		<string>Icon-60@2x.png</string>
 		<string>Icon-76.png</string>
 		<string>Icon-76@2x.png</string>
-		<string>Icon-83.5@2x.png</string>
 		<string>Default.png</string>
 		<string>Default@2x.png</string>
 		<string>Default-568h@2x.png</string>
@@ -43,12 +42,15 @@
 		<string>Icon-Small-40@2x.png</string>
 		<string>Icon-Small.png</string>
 		<string>Icon-Small@2x.png</string>
+		<string>Icon835@2x.png</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1</string>
 	<key>UIMainStoryboardFile</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile~ipad</key>
 	<string>LaunchScreen</string>
 </dict>
 </plist>

@@ -1,0 +1,17 @@
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\TwistControliOS.exe
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\TwistControl.dll
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\TwistControl.pdb
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Core.xml
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.xml
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\optimized\
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\TwistControl.iOS.csprojResolveAssemblyReference.cache
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\TwistControliOS.exe
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\obj\iPhone\Release\TwistControliOS.exe.mdb
+C:\Users\hackmods\Source\Repos\TwistControl\TwistControl\TwistControl.iOS\bin\iPhone\Release\TwistControliOS.exe.mdb
